@@ -13,7 +13,9 @@
 ## Streamlit Community Cloud
 
 - Entry point: `app.py`
-- Python dependencies: `requirements.txt`
+- Python version: select `3.12` in Advanced settings when creating the app.
+- Python dependencies: `requirements.txt` contains only dashboard runtime packages.
+- Training and test dependencies: `requirements-dev.txt`.
 - Runtime artifacts: committed `artifacts/` and `models/`
 - No secret or API key is required.
 
