@@ -1,0 +1,103 @@
+{
+  "evaluation_start": "2024-04-01T00:00:00+05:30",
+  "evaluation_end": "2024-04-08T22:00:00+05:30",
+  "rows": 44736,
+  "windows": 96,
+  "zones": 466,
+  "clearlane": {
+    "count": {
+      "mae": 0.44747955736083667,
+      "rmse": 2.1154276195888375,
+      "poisson_deviance": 1.152213171224987,
+      "rank_correlation": 0.3117995268806401,
+      "precision_at_10": 0.2489583333333333,
+      "mean_capture_at_10": 0.3345393142540673,
+      "weighted_capture_at_10": 0.3620823620823621,
+      "precision_at_25": 0.26,
+      "mean_capture_at_25": 0.4572383752824334,
+      "weighted_capture_at_25": 0.5223564314473406,
+      "precision_at_50": 0.25958333333333333,
+      "mean_capture_at_50": 0.5576951786685821,
+      "weighted_capture_at_50": 0.6433566433566433
+    },
+    "impact": {
+      "mae": 0.5591294379174175,
+      "rmse": 3.841725072483405,
+      "poisson_deviance": 2.5455947486453754,
+      "rank_correlation": 0.3124520672520512,
+      "precision_at_10": 0.25625000000000003,
+      "mean_capture_at_10": 0.3250624885355171,
+      "weighted_capture_at_10": 0.3523816515015995,
+      "precision_at_25": 0.2629166666666667,
+      "mean_capture_at_25": 0.4590472343545853,
+      "weighted_capture_at_25": 0.5080386594455595,
+      "precision_at_50": 0.255,
+      "mean_capture_at_50": 0.5416950884446378,
+      "weighted_capture_at_50": 0.6219380050979518
+    }
+  },
+  "same_window_last_week": {
+    "count": {
+      "mae": 0.4781831195918277,
+      "rmse": 2.7517145779306342,
+      "poisson_deviance": 8.061124254213723,
+      "rank_correlation": 0.25035780207360603,
+      "precision_at_10": 0.4333333333333334,
+      "mean_capture_at_10": 0.18826071819241433,
+      "weighted_capture_at_10": 0.24758070212615668,
+      "precision_at_25": 0.5133333333333333,
+      "mean_capture_at_25": 0.2605187470719918,
+      "weighted_capture_at_25": 0.3525464434555344,
+      "precision_at_50": 0.6008333333333333,
+      "mean_capture_at_50": 0.31419842050201513,
+      "weighted_capture_at_50": 0.4425372607190789
+    },
+    "impact": {
+      "mae": 0.7830118942364092,
+      "rmse": 4.73084110807036,
+      "poisson_deviance": 13.900416382651718,
+      "rank_correlation": 0.24996294815983341,
+      "precision_at_10": 0.421875,
+      "mean_capture_at_10": 0.1787801053090918,
+      "weighted_capture_at_10": 0.22188217368570182,
+      "precision_at_25": 0.5066666666666667,
+      "mean_capture_at_25": 0.2504693969907888,
+      "weighted_capture_at_25": 0.33056070442846053,
+      "precision_at_50": 0.6002083333333333,
+      "mean_capture_at_50": 0.3059605147640542,
+      "weighted_capture_at_50": 0.4186411056585448
+    }
+  },
+  "seven_day_average": {
+    "count": {
+      "mae": 0.5232546815858689,
+      "rmse": 2.2642603437018796,
+      "poisson_deviance": 1.7093390517550298,
+      "rank_correlation": 0.21574531882741985,
+      "precision_at_10": 0.20729166666666665,
+      "mean_capture_at_10": 0.24514833465046726,
+      "weighted_capture_at_10": 0.32810623719714627,
+      "precision_at_25": 0.23375,
+      "mean_capture_at_25": 0.3857068680410951,
+      "weighted_capture_at_25": 0.48477784841421206,
+      "precision_at_50": 0.23312500000000003,
+      "mean_capture_at_50": 0.498849417245089,
+      "weighted_capture_at_50": 0.6129829766193402
+    },
+    "impact": {
+      "mae": 0.8636899291353816,
+      "rmse": 3.869372489613743,
+      "poisson_deviance": 3.045172875137862,
+      "rank_correlation": 0.21398824671319625,
+      "precision_at_10": 0.19479166666666667,
+      "mean_capture_at_10": 0.2293090643944239,
+      "weighted_capture_at_10": 0.2890950634295178,
+      "precision_at_25": 0.21208333333333332,
+      "mean_capture_at_25": 0.34129685760060907,
+      "weighted_capture_at_25": 0.44157620480115617,
+      "precision_at_50": 0.21333333333333337,
+      "mean_capture_at_50": 0.471277897250056,
+      "weighted_capture_at_50": 0.5739950966864186
+    }
+  }
+}

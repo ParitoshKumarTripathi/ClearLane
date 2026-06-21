@@ -1,0 +1,16 @@
+[project]
+name = "clearlane"
+version = "1.0.0"
+description = "Impact-aware illegal-parking hotspot forecasting and patrol prioritization"
+requires-python = ">=3.11,<3.14"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 160
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]

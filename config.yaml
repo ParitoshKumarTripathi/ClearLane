@@ -1,0 +1,75 @@
+project:
+  name: ClearLane
+  random_seed: 42
+
+data:
+  input_path: data/raw/police_violations.csv
+  timezone: Asia/Kolkata
+  validation_policy: exclude_rejected_duplicate
+  valid_latitude: [12.70, 13.30]
+  valid_longitude: [77.30, 77.90]
+
+spatial:
+  origin_latitude: 12.97
+  origin_longitude: 77.59
+  grid_size_meters: 500
+  min_zone_observations: 50
+
+
+temporal:
+  window_hours: 2
+  lag_windows: [1, 2, 3, 12, 84]
+  rolling_windows: [12, 84, 336]
+  test_start: "2024-04-01 00:00:00+05:30"
+  test_end: "2024-04-09 00:00:00+05:30"
+
+model:
+  max_iter: 35
+  learning_rate: 0.06
+  max_leaf_nodes: 15
+  min_samples_leaf: 30
+  l2_regularization: 1.0
+  validation_fraction: 0.1
+  zero_to_positive_ratio: 2.0
+  calibration_windows: 0
+  calibration_grid_step: 0.1
+  calibration_ranking_weight: 0.15
+  minimum_model_blend_weight: 1.0
+  early_stopping: true
+  hotspot:
+    max_iter: 100
+    learning_rate: 0.035
+    max_leaf_nodes: 23
+    min_samples_leaf: 40
+    l2_regularization: 2.0
+    zero_to_positive_ratio: 3.0
+  impact:
+    ensemble_members:
+      - name: compact_ranker
+        weight: 0.3
+        max_iter: 35
+        learning_rate: 0.06
+        max_leaf_nodes: 15
+        min_samples_leaf: 30
+        l2_regularization: 1.0
+        zero_to_positive_ratio: 2.0
+      - name: regularized_ranker
+        weight: 0.7
+        max_iter: 100
+        learning_rate: 0.035
+        max_leaf_nodes: 23
+        min_samples_leaf: 40
+        l2_regularization: 2.0
+        zero_to_positive_ratio: 1.0
+
+impact:
+  additional_offence_fraction: 0.25
+  peak_hour_factor: 1.20
+  named_junction_factor: 1.35
+  main_road_factor: 1.25
+  sensitive_place_factor: 1.15
+
+deployment:
+  default_teams: 8
+  minimum_team_distance_meters: 400
+  top_k_metrics: [10, 25, 50]

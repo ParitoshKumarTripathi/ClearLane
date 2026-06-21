@@ -1,0 +1,41 @@
+{
+  "input_path": "C:\\Users\\parit\\Downloads\\jan to may police violation_anonymized791b166.csv",
+  "artifacts": [
+    "data_summary.json",
+    "demo_patrol_plan.csv",
+    "demo_predictions.csv.gz",
+    "feature_importance.csv",
+    "metrics.json",
+    "metrics_before_retrain.json",
+    "police_station_summary.csv",
+    "run_manifest.json",
+    "zone_history.csv.gz",
+    "zone_reference.csv"
+  ],
+  "models": [
+    "hotspot_model.joblib",
+    "impact_model.joblib",
+    "model_metadata.json",
+    "model_metadata_before_retrain.json"
+  ],
+  "data_summary": {
+    "source_rows": 298450,
+    "clean_rows": 248371,
+    "removed_rows": 50079,
+    "date_min": "2023-11-10T00:41:46+05:30",
+    "date_max": "2024-04-08T23:00:46+05:30",
+    "zones_before_threshold": 1543,
+    "police_stations": 54,
+    "named_junctions": 168,
+    "parking_offence_categories": 10,
+    "validation_policy": "exclude_rejected_duplicate",
+    "active_model_zones": 466,
+    "training_rows": 760512,
+    "model_fit_rows": 180892,
+    "test_rows": 44736,
+    "test_windows": 96,
+    "default_demo_window": "2024-04-07T10:00:00+05:30",
+    "grid_size_meters": 500,
+    "window_hours": 2
+  }
+}

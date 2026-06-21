@@ -1,0 +1,147 @@
+{
+  "project": "ClearLane",
+  "model_type": "HistGradientBoostingRegressor with weighted impact ensemble",
+  "hotspot_model_type": "HistGradientBoostingRegressor",
+  "impact_model_type": "WeightedModelEnsemble",
+  "hotspot_loss": "poisson",
+  "impact_loss": "squared_error",
+  "impact_target_transform": "log1p/expm1",
+  "model_config": {
+    "max_iter": 35,
+    "learning_rate": 0.06,
+    "max_leaf_nodes": 15,
+    "min_samples_leaf": 30,
+    "l2_regularization": 1.0,
+    "validation_fraction": 0.1,
+    "zero_to_positive_ratio": 2.0,
+    "calibration_windows": 0,
+    "calibration_grid_step": 0.1,
+    "calibration_ranking_weight": 0.15,
+    "minimum_model_blend_weight": 1.0,
+    "early_stopping": true,
+    "hotspot": {
+      "max_iter": 100,
+      "learning_rate": 0.035,
+      "max_leaf_nodes": 23,
+      "min_samples_leaf": 40,
+      "l2_regularization": 2.0,
+      "zero_to_positive_ratio": 3.0
+    },
+    "impact": {
+      "ensemble_members": [
+        {
+          "name": "compact_ranker",
+          "weight": 0.3,
+          "max_iter": 35,
+          "learning_rate": 0.06,
+          "max_leaf_nodes": 15,
+          "min_samples_leaf": 30,
+          "l2_regularization": 1.0,
+          "zero_to_positive_ratio": 2.0
+        },
+        {
+          "name": "regularized_ranker",
+          "weight": 0.7,
+          "max_iter": 100,
+          "learning_rate": 0.035,
+          "max_leaf_nodes": 23,
+          "min_samples_leaf": 40,
+          "l2_regularization": 2.0,
+          "zero_to_positive_ratio": 1.0
+        }
+      ]
+    }
+  },
+  "random_seed": 42,
+  "feature_columns": [
+    "cell_x",
+    "cell_y",
+    "centroid_latitude",
+    "centroid_longitude",
+    "target_hour_sin",
+    "target_hour_cos",
+    "target_weekday_sin",
+    "target_weekday_cos",
+    "target_is_weekend",
+    "target_is_peak",
+    "count_lag_1",
+    "count_lag_2",
+    "count_lag_3",
+    "count_lag_12",
+    "count_lag_84",
+    "impact_lag_1",
+    "impact_lag_2",
+    "impact_lag_3",
+    "impact_lag_12",
+    "impact_lag_84",
+    "count_roll_mean_12",
+    "count_roll_mean_84",
+    "count_roll_mean_336",
+    "impact_roll_mean_12",
+    "impact_roll_mean_84",
+    "impact_roll_mean_336",
+    "trend_ratio",
+    "impact_trend_ratio",
+    "junction_share_84",
+    "junction_offence_share_84",
+    "main_road_share_84",
+    "heavy_vehicle_share_84",
+    "high_severity_share_84",
+    "repeat_vehicle_rate_84",
+    "active_devices_mean_84",
+    "active_officers_mean_84",
+    "record_confidence_mean_84",
+    "history_observations",
+    "zone_expanding_mean_count",
+    "zone_expanding_mean_impact"
+  ],
+  "training_rows": 760512,
+  "training_sample": {
+    "full_training_rows": 760512,
+    "positive_rows": 45223,
+    "model_fit_rows": 180892,
+    "hotspot_sample": {
+      "full_training_rows": 760512,
+      "positive_rows": 45223,
+      "full_negative_rows": 715289,
+      "sampled_negative_rows": 135669,
+      "model_fit_rows": 180892,
+      "negative_sample_weight": 5.272309812853342
+    },
+    "impact_sample": {
+      "ensemble_members": [
+        {
+          "full_training_rows": 760512,
+          "positive_rows": 45223,
+          "full_negative_rows": 715289,
+          "sampled_negative_rows": 90446,
+          "model_fit_rows": 135669,
+          "negative_sample_weight": 7.908464719280013,
+          "name": "compact_ranker",
+          "weight": 0.3
+        },
+        {
+          "full_training_rows": 760512,
+          "positive_rows": 45223,
+          "full_negative_rows": 715289,
+          "sampled_negative_rows": 45223,
+          "model_fit_rows": 90446,
+          "negative_sample_weight": 15.816929438560026,
+          "name": "regularized_ranker",
+          "weight": 0.7
+        }
+      ],
+      "model_fit_rows": 135669,
+      "positive_rows": 45223
+    },
+    "calibration_rows": 0,
+    "calibration_windows": 0
+  },
+  "training_end": "2024-03-31T22:00:00+05:30",
+  "test_start": "2024-04-01T00:00:00+05:30",
+  "test_end": "2024-04-09T00:00:00+05:30",
+  "grid_size_meters": 500,
+  "window_hours": 2,
+  "validation_policy": "exclude_rejected_duplicate",
+  "default_demo_window": "2024-04-07T10:00:00+05:30"
+}

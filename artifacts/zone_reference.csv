@@ -1,0 +1,467 @@
+zone_id,cell_x,cell_y,police_station,primary_junction,total_records,zone_name,centroid_latitude,centroid_longitude
+Z6_-10,6,-10,Madiwala,No Junction,250,BTP137 - Madiwala Traffic PS Junction,12.927330219187928,77.61995944713152
+Z24_-15,24,-15,Bellandur,No Junction,126,Chikkabellanduru Road,12.904872439813152,77.70292406995729
+Z-16_-4,-16,-4,Byatarayanapura,No Junction,141,Gnana Bharathi Road,12.954279554437658,77.5185582414556
+Z-3_1,-3,1,Upparpet,BTP040 - Elite Junction,13646,BTP040 - Elite Junction,12.976737333812434,77.57847713571864
+Z3_2,3,2,Shivajinagar,BTP051 - Safina Plaza Junction,5669,BTP051 - Safina Plaza Junction,12.981228889687388,77.6061320099939
+Z5_5,5,5,Pulikeshinagar(F.Town),No Junction,823,Coles Road,12.994703557312254,77.61535030141899
+Z-11_6,-11,6,Vijayanagara,"BTP206 - Shankara Mutt Circle, Vijayanagar",624,"BTP206 - Shankara Mutt Circle, Vijayanagar",12.99919511318721,77.54160397001831
+Z-10_6,-10,6,Vijayanagara,BTP205 - Modi Hospital Junction,1044,BTP205 - Modi Hospital Junction,12.99919511318721,77.54621311573085
+Z22_8,22,8,K.R. Pura,No Junction,2787,MBT Road,13.008178224937119,77.6937057785322
+Z-4_0,-4,0,City Market,BTP043 - Upparpet Junction,784,BTP043 - Upparpet Junction,12.972245777937479,77.57386799000611
+Z9_-13,9,-13,HSR Layout,No Junction,874,17th Cross Road,12.913855551563062,77.63378688426916
+Z18_-16,18,-16,Bellandur,No Junction,527,Amrutha College Road,12.900380883938197,77.67526919568203
+Z21_-8,21,-8,HAL Old Airport,No Junction,1212,New Horizon College Road,12.936313330937837,77.68909663281966
+Z0_4,0,4,High ground,No Junction,406,BTP034 - LRDE Junction,12.990212001437298,77.59230457285628
+Z13_-12,13,-12,HSR Layout,No Junction,121,27th Main Road,12.918347107438017,77.65222346711933
+Z-3_0,-3,0,Upparpet,BTP044 - Sagar Theatre Junction,5138,BTP044 - Sagar Theatre Junction,12.972245777937479,77.57847713571864
+Z-19_16,-19,16,Peenya,No Junction,76,Mumbai Bengaluru Highway,13.04411067193676,77.50473080431797
+Z-6_5,-6,5,Sheshadripuram,No Junction,478,4th Main Road,12.994703557312254,77.56464969858102
+Z11_0,11,0,Jeevanbheemanagar,No Junction,298,12th Main Road,12.972245777937479,77.64300517569424
+Z21_8,21,8,K.R. Pura,No Junction,153,MBT Road,13.008178224937119,77.68909663281966
+Z22_-7,22,-7,HAL Old Airport,No Junction,1306,Kadubeesanahalli Underpass,12.940804886812792,77.6937057785322
+Z-2_1,-2,1,Upparpet,BTP038 - Mysore Bank Junction,1038,BTP038 - Mysore Bank Junction,12.976737333812434,77.58308628143119
+Z11_-29,11,-29,Electronic City,No Junction,574,Neeladri Road,12.84199065756378,77.64300517569424
+Z12_-29,12,-29,Electronic City,No Junction,1198,Neeladri Road,12.84199065756378,77.64761432140678
+Z-1_5,-1,5,High ground,BTP032 - Windsor Circle,1152,BTP032 - Windsor Circle,12.994703557312254,77.58769542714373
+Z-12_-8,-12,-8,Banashankari,No Junction,210,8th Main Road,12.936313330937837,77.53699482430576
+Z22_5,22,5,Mahadevapura,No Junction,564,Whitefield Road,12.994703557312254,77.6937057785322
+Z10_-18,10,-18,Hulimavu,No Junction,746,Hosur Road,12.891397772188286,77.63839602998169
+Z19_-10,19,-10,Bellandur,No Junction,1134,Outer Ring Road,12.927330219187928,77.67987834139457
+Z18_6,18,6,Banaswadi,No Junction,1415,Outer Ring Road,12.99919511318721,77.67526919568203
+Z-9_6,-9,6,Rajajinagar,BTP027 - Modi Bridge Junction,5517,BTP027 - Modi Bridge Junction,12.99919511318721,77.5508222614434
+Z19_47,19,47,Chikkajala,No Junction,2370,Unnamed Road,13.183348904060367,77.67987834139457
+Z18_-10,18,-10,Bellandur,No Junction,534,Outer Ring Road,12.927330219187928,77.67526919568203
+Z-1_4,-1,4,High ground,BTP032 - Windsor Circle,1225,BTP032 - Windsor Circle,12.990212001437298,77.58769542714373
+Z4_2,4,2,Shivajinagar,BTP051 - Safina Plaza Junction,9029,BTP051 - Safina Plaza Junction,12.981228889687388,77.61074115570645
+Z-7_-2,-7,-2,Chamarajpet,BTP091 - Sirsi Circle,95,BTP091 - Sirsi Circle,12.963262666187568,77.56004055286849
+Z-19_4,-19,4,Kamakshipalya,No Junction,124,Magadi Main Road,12.990212001437298,77.50473080431797
+Z-4_2,-4,2,Upparpet,BTP057 - Anand Rao Junction,1853,BTP057 - Anand Rao Junction,12.981228889687388,77.57386799000611
+Z24_-3,24,-3,HAL Old Airport,No Junction,1226,Marathahalli Underpass,12.958771110312613,77.70292406995729
+Z5_0,5,0,Halasur,No Junction,1066,BTP141 - Palmgroove Junction,12.972245777937479,77.61535030141899
+Z1_0,1,0,Cubbon Park,BTP063 - Siddalingaiah Circle,855,BTP063 - Siddalingaiah Circle,12.972245777937479,77.59691371856881
+Z-12_-1,-12,-1,Vijayanagara,"BTP022 - Marenahalli Junction, Vijayanagar",1372,"BTP022 - Marenahalli Junction, Vijayanagar",12.967754222062522,77.53699482430576
+Z13_-13,13,-13,HSR Layout,No Junction,96,17th Cross Road,12.913855551563062,77.65222346711933
+Z10_-13,10,-13,HSR Layout,No Junction,399,17th Cross Road,12.913855551563062,77.63839602998169
+Z-12_-2,-12,-2,Vijayanagara,"BTP016 - 5th Main Road, RPC Layout",1191,"BTP016 - 5th Main Road, RPC Layout",12.963262666187568,77.53699482430576
+Z10_-12,10,-12,HSR Layout,No Junction,80,14th Main Road,12.918347107438017,77.63839602998169
+Z-4_-2,-4,-2,City Market,BTP082 - KR Market Junction,1935,BTP082 - KR Market Junction,12.963262666187568,77.57386799000611
+Z-8_9,-8,9,Malleshwaram,No Junction,2949,80 Feet Ring Road,13.012669780812073,77.55543140715594
+Z36_8,36,8,Mahadevapura,No Junction,82,3rd Main Road,13.008178224937119,77.75823381850779
+Z4_-13,4,-13,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",93,"BTP163 - 16th Main Road, BTM Layout",12.913855551563062,77.61074115570645
+Z-4_1,-4,1,Upparpet,BTP045 - Danvanthri Road Junction,6499,BTP045 - Danvanthri Road Junction,12.976737333812434,77.57386799000611
+Z3_3,3,3,Shivajinagar,BTP211 - Central Street Junction,889,BTP211 - Central Street Junction,12.985720445562343,77.6061320099939
+Z-2_-10,-2,-10,Jayanagara,BTP220 - Puttanna Junction,535,BTP220 - Puttanna Junction,12.927330219187928,77.58308628143119
+Z11_1,11,1,Jeevanbheemanagar,No Junction,100,Chinmaya Mission Hospital Road,12.976737333812434,77.64300517569424
+Z-5_8,-5,8,Malleshwaram,No Junction,2249,Sri Venkataranga Ayangar Road,13.008178224937119,77.56925884429356
+Z-3_-2,-3,-2,City Market,BTP082 - KR Market Junction,7755,BTP082 - KR Market Junction,12.963262666187568,77.57847713571864
+Z23_-15,23,-15,Bellandur,No Junction,126,Sarjapura Main Road,12.904872439813152,77.69831492424474
+Z-4_-1,-4,-1,City Market,"BTP083 - AS Char Street, Mysore Road",2612,"BTP083 - AS Char Street, Mysore Road",12.967754222062522,77.57386799000611
+Z8_-15,8,-15,HSR Layout,No Junction,694,Hosapalya Main Road,12.904872439813152,77.6291777385566
+Z-2_-1,-2,-1,Halasuru Gate,"BTP080 - NR Road, SP Road Junction",298,"BTP080 - NR Road, SP Road Junction",12.967754222062522,77.58308628143119
+Z-1_-2,-1,-2,Halasuru Gate,BTP180 - Swagath Poornima Theatre,231,BTP180 - Swagath Poornima Theatre,12.963262666187568,77.58769542714373
+Z23_-7,23,-7,HAL Old Airport,No Junction,408,Panathur Main Road,12.940804886812792,77.69831492424474
+Z-9_5,-9,5,Rajajinagar,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",586,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",12.994703557312254,77.5508222614434
+Z0_18,0,18,Kodigehalli,No Junction,182,Bellary Road,13.05309378368667,77.59230457285628
+Z1_-6,1,-6,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",331,"BTP123 - 10th Cross, Wilson Garden",12.945296442687747,77.59691371856881
+Z-5_6,-5,6,Malleshwaram,No Junction,2218,Sri Venkataranga Ayangar Road,12.99919511318721,77.56925884429356
+Z-9_-10,-9,-10,Banashankari,BTP155 - Katriguppe Junction,300,BTP155 - Katriguppe Junction,12.927330219187928,77.5508222614434
+Z-1_14,-1,14,Hebbala,No Junction,2958,Bellary Road,13.035127560186849,77.58769542714373
+Z12_-3,12,-3,Jeevanbheemanagar,No Junction,877,Old Airport Road,12.958771110312613,77.64761432140678
+Z-13_11,-13,11,Rajajinagar,No Junction,167,Dr Rajkumar Puniya Bhoomi Road,13.021652892561985,77.53238567859323
+Z7_-13,7,-13,HSR Layout,No Junction,241,Hosur Road,12.913855551563062,77.62456859284407
+Z2_-8,2,-8,Mico Layout,BTP126 - Dairy Circle,190,BTP126 - Dairy Circle,12.936313330937837,77.60152286428136
+Z0_-2,0,-2,Halasuru Gate,BTP064 - Devanga Hostel Junction,66,BTP064 - Devanga Hostel Junction,12.963262666187568,77.59230457285628
+Z-5_7,-5,7,Malleshwaram,No Junction,1611,15th Cross Road,13.003686669062164,77.56925884429356
+Z-9_9,-9,9,Malleshwaram,No Junction,1834,BTP023 - Mahalaxmi Layout Entrance,13.012669780812073,77.5508222614434
+Z-8_10,-8,10,Yeshwanthpura,No Junction,314,Mumbai Bengaluru Highway,13.017161336687028,77.55543140715594
+Z-3_3,-3,3,High ground,BTP054 - Shivananda Circle,566,BTP054 - Shivananda Circle,12.985720445562343,77.57847713571864
+Z15_5,15,5,Banaswadi,No Junction,761,Old Madras Road,12.994703557312254,77.66144175854441
+Z-6_-18,-6,-18,K.S. Layout,No Junction,69,Canara Bank Cross Road,12.891397772188286,77.56464969858102
+Z-14_7,-14,7,Rajajinagar,No Junction,115,Dr Rajkumar Puniya Bhoomi Road,13.003686669062164,77.52777653288068
+Z4_0,4,0,Ashok Nagar,No Junction,280,BTP141 - Palmgroove Junction,12.972245777937479,77.61074115570645
+Z-2_-2,-2,-2,Halasuru Gate,"BTP080 - NR Road, SP Road Junction",2995,"BTP080 - NR Road, SP Road Junction",12.963262666187568,77.58308628143119
+Z-2_-3,-2,-3,City Market,BTP167 - JC Road Junction,276,BTP167 - JC Road Junction,12.958771110312613,77.58308628143119
+Z-4_17,-4,17,Kodigehalli,No Junction,618,Bhadrappa Flyover,13.048602227811715,77.57386799000611
+Z-1_-10,-1,-10,Jayanagara,"BTP226 - 33rd Cross, 11th Main, Jayanagar",410,"BTP226 - 33rd Cross, 11th Main, Jayanagar",12.927330219187928,77.58769542714373
+Z-2_-8,-2,-8,Wilson Garden,No Junction,400,BTP218 - Syndicate Bank Junction,12.936313330937837,77.58308628143119
+Z-1_22,-1,22,Kodigehalli,No Junction,4586,Sahakar Nagar Road,13.07106000718649,77.58769542714373
+Z10_0,10,0,Jeevanbheemanagar,No Junction,166,12th Main Road,12.972245777937479,77.63839602998169
+Z2_3,2,3,Shivajinagar,BTP211 - Central Street Junction,2637,BTP211 - Central Street Junction,12.985720445562343,77.60152286428136
+Z0_3,0,3,Cubbon Park,BTP166 - Coffee Board Junction,121,BTP166 - Coffee Board Junction,12.985720445562343,77.59230457285628
+Z20_7,20,7,K.R. Pura,No Junction,759,MBT Road,13.003686669062164,77.68448748710712
+Z-2_11,-2,11,R.T. Nagar,No Junction,295,Bellary Road,13.021652892561985,77.58308628143119
+Z-5_1,-5,1,Chamarajpet,BTP048 - Shanthala Junction,1203,BTP048 - Shanthala Junction,12.976737333812434,77.56925884429356
+Z-3_-3,-3,-3,City Market,BTP104 - Medical College Circle,1395,BTP104 - Medical College Circle,12.958771110312613,77.57847713571864
+Z-2_-4,-2,-4,City Market,BTP120 - Lalbagh Main Gate Junction,143,BTP120 - Lalbagh Main Gate Junction,12.954279554437658,77.58308628143119
+Z-3_-1,-3,-1,City Market,BTP082 - KR Market Junction,1106,BTP082 - KR Market Junction,12.967754222062522,77.57847713571864
+Z4_-10,4,-10,Mico Layout,No Junction,143,Thavarekere Main Road,12.927330219187928,77.61074115570645
+Z2_2,2,2,Shivajinagar,BTP211 - Central Street Junction,959,BTP211 - Central Street Junction,12.981228889687388,77.60152286428136
+Z31_3,31,3,Whitefield,No Junction,505,Whitefield Road,12.985720445562343,77.73518808994508
+Z-18_0,-18,0,Jnanabharathi,No Junction,162,Kengeri Main Road,12.972245777937479,77.50933995003051
+Z-10_0,-10,0,Vijayanagara,BTP020 - Hosahalli Metro Station,2740,BTP020 - Hosahalli Metro Station,12.972245777937479,77.54621311573085
+Z-13_10,-13,10,Rajajinagar,No Junction,450,Dr Rajkumar Puniya Bhoomi Road,13.017161336687028,77.53238567859323
+Z23_-4,23,-4,HAL Old Airport,No Junction,165,Outer Ring Road,12.954279554437658,77.69831492424474
+Z0_20,0,20,Kodigehalli,No Junction,299,20th Main Road,13.06207689543658,77.59230457285628
+Z0_-4,0,-4,Wilson Garden,"BTP102 - BMTC Junction, KH Road",216,"BTP102 - BMTC Junction, KH Road",12.954279554437658,77.59230457285628
+Z-1_20,-1,20,Kodigehalli,No Junction,404,15th Cross Road,13.06207689543658,77.58769542714373
+Z-9_0,-9,0,Magadi Road,"BTP070 - Cholurpalya Junction, Magadi Road",1990,"BTP070 - Cholurpalya Junction, Magadi Road",12.972245777937479,77.5508222614434
+Z26_1,26,1,Mahadevapura,No Junction,134,ITPL Main Road,12.976737333812434,77.71214236138238
+Z-12_3,-12,3,Kamakshipalya,BTP208 - Havanur Circle,361,BTP208 - Havanur Circle,12.985720445562343,77.53699482430576
+Z8_1,8,1,Jeevanbheemanagar,No Junction,146,Old Madras Road,12.976737333812434,77.6291777385566
+Z-9_3,-9,3,Rajajinagar,BTP061 - Bhashyam Circle,643,BTP061 - Bhashyam Circle,12.985720445562343,77.5508222614434
+Z-8_3,-8,3,Rajajinagar,BTP061 - Bhashyam Circle,940,BTP061 - Bhashyam Circle,12.985720445562343,77.55543140715594
+Z-12_4,-12,4,Vijayanagara,BTP208 - Havanur Circle,496,BTP208 - Havanur Circle,12.990212001437298,77.53699482430576
+Z21_-9,21,-9,HAL Old Airport,No Junction,5025,New Horizon College Road,12.931821775062883,77.68909663281966
+Z-10_-15,-10,-15,K.S. Layout,No Junction,91,Subramanyapura Main Road,12.904872439813152,77.54621311573085
+Z-11_-4,-11,-4,Byatarayanapura,BTP096 - Gali Anjaneya Temple,1093,BTP096 - Gali Anjaneya Temple,12.954279554437658,77.54160397001831
+Z-2_-9,-2,-9,Jayanagara,BTP219 - Canara Bank Junction,363,BTP219 - Canara Bank Junction,12.931821775062883,77.58308628143119
+Z2_-2,2,-2,Ashok Nagar,BTP172 - Nanjappa Circle,205,BTP172 - Nanjappa Circle,12.963262666187568,77.60152286428136
+Z-8_-2,-8,-2,Magadi Road,No Junction,539,BTP091 - Sirsi Circle,12.963262666187568,77.55543140715594
+Z12_49,12,49,Chikkajala,No Junction,741,Bengaluru Bellary Road,13.192332015810278,77.64761432140678
+Z-7_1,-7,1,Magadi Road,BTP074 - Leprosy Hospital Junction,1355,BTP074 - Leprosy Hospital Junction,12.976737333812434,77.56004055286849
+Z-1_-1,-1,-1,Halasuru Gate,BTP076 - Hudson Circle,596,BTP076 - Hudson Circle,12.967754222062522,77.58769542714373
+Z-1_-11,-1,-11,Jayanagara,"BTP226 - 33rd Cross, 11th Main, Jayanagar",74,"BTP226 - 33rd Cross, 11th Main, Jayanagar",12.922838663312973,77.58769542714373
+Z-4_-12,-4,-12,Banashankari,"BTP115 - Sahasra Hospital, Jayanagar",399,"BTP115 - Sahasra Hospital, Jayanagar",12.918347107438017,77.57386799000611
+Z18_-12,18,-12,Bellandur,No Junction,103,Sarjapura Main Road,12.918347107438017,77.67526919568203
+Z34_16,34,16,K.R. Pura,No Junction,159,1st Cross Road,13.04411067193676,77.7490155270827
+Z-5_-17,-5,-17,K.S. Layout,No Junction,77,Bikasipura Main Road,12.895889328063241,77.56925884429356
+Z-2_6,-2,6,Sheshadripuram,No Junction,252,BTP032 - Windsor Circle,12.99919511318721,77.58308628143119
+Z10_-14,10,-14,HSR Layout,No Junction,380,14th Main Road,12.909363995688107,77.63839602998169
+Z-8_5,-8,5,Rajajinagar,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",630,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",12.994703557312254,77.55543140715594
+Z-4_3,-4,3,Sheshadripuram,No Junction,419,BTP057 - Anand Rao Junction,12.985720445562343,77.57386799000611
+Z-3_12,-3,12,Kodigehalli,No Junction,305,80 Feet Road,13.02614444843694,77.57847713571864
+Z-1_-3,-1,-3,Wilson Garden,BTP192 - Urvashi Theater,369,BTP192 - Urvashi Theater,12.958771110312613,77.58769542714373
+Z31_14,31,14,K.R. Pura,No Junction,81,MBT Road,13.035127560186849,77.73518808994508
+Z-4_6,-4,6,Malleshwaram,No Junction,63,8th Cross Road,12.99919511318721,77.57386799000611
+Z-8_2,-8,2,Magadi Road,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",341,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",12.981228889687388,77.55543140715594
+Z-10_12,-10,12,Yeshwanthpura,No Junction,72,1st Main Road,13.02614444843694,77.54621311573085
+Z-2_5,-2,5,Sheshadripuram,BTP032 - Windsor Circle,202,BTP032 - Windsor Circle,12.994703557312254,77.58308628143119
+Z5_-8,5,-8,Adugodi,BTP135 - UCO Bank Junction,1029,BTP135 - UCO Bank Junction,12.936313330937837,77.61535030141899
+Z-14_3,-14,3,Kamakshipalya,No Junction,74,G Narayana Kumar Road,12.985720445562343,77.52777653288068
+Z-16_-3,-16,-3,Byatarayanapura,No Junction,339,Gnana Bharathi Road,12.958771110312613,77.5185582414556
+Z-4_-15,-4,-15,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",70,"BTP159 - JP Nagar Metro, ORR",12.904872439813152,77.57386799000611
+Z2_-1,2,-1,Ashok Nagar,"BTP099 - Cash Pharmacy, Residency Road",160,"BTP099 - Cash Pharmacy, Residency Road",12.967754222062522,77.60152286428136
+Z6_0,6,0,Halasur,No Junction,635,BTP143 - ASC Junction,12.972245777937479,77.61995944713152
+Z4_5,4,5,Pulikeshinagar(F.Town),No Junction,492,Saunders Road,12.994703557312254,77.61074115570645
+Z26_4,26,4,Mahadevapura,No Junction,66,Hoodi Main Road,12.990212001437298,77.71214236138238
+Z-8_7,-8,7,Malleshwaram,"BTP001 - 10th Cross, Dr. Rajkumar Road",297,"BTP001 - 10th Cross, Dr. Rajkumar Road",13.003686669062164,77.55543140715594
+Z-4_12,-4,12,Sadashivanagar,No Junction,589,80 Feet Road,13.02614444843694,77.57386799000611
+Z10_-1,10,-1,Jeevanbheemanagar,No Junction,140,"BTP148 - 17th Main, Doopanahalli Bus Stop",12.967754222062522,77.63839602998169
+Z0_19,0,19,Kodigehalli,No Junction,287,4th Cross Road,13.057585339561625,77.59230457285628
+Z-5_-6,-5,-6,Basavanagudi,BTP108 - Tagore Park Junction,1318,BTP108 - Tagore Park Junction,12.945296442687747,77.56925884429356
+Z-5_5,-5,5,Malleshwaram,No Junction,1049,Sri Venkataranga Ayangar Road,12.994703557312254,77.56925884429356
+Z-1_-13,-1,-13,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",183,"BTP197 - 9th Cross, 24th Main, JP Nagar",12.913855551563062,77.58769542714373
+Z12_-22,12,-22,Hulimavu,No Junction,117,Hosur Road,12.873431548688467,77.64761432140678
+Z22_2,22,2,Mahadevapura,No Junction,296,Outer Ring Road,12.981228889687388,77.6937057785322
+Z21_6,21,6,Mahadevapura,No Junction,114,Whitefield Road,12.99919511318721,77.68909663281966
+Z18_-17,18,-17,Bellandur,No Junction,70,Amrita College Road,12.895889328063241,77.67526919568203
+Z22_1,22,1,Mahadevapura,No Junction,139,Outer Ring Road,12.976737333812434,77.6937057785322
+Z-1_-4,-1,-4,Wilson Garden,BTP192 - Urvashi Theater,397,BTP192 - Urvashi Theater,12.954279554437658,77.58769542714373
+Z21_-34,21,-34,Electronic City,No Junction,155,Hosur Road,12.819532878189005,77.68909663281966
+Z10_25,10,25,Hennuru,No Junction,58,Munninarasimha Road,13.084534674811355,77.63839602998169
+Z-6_1,-6,1,Magadi Road,BTP074 - Leprosy Hospital Junction,79,BTP074 - Leprosy Hospital Junction,12.976737333812434,77.56464969858102
+Z9_-10,9,-10,Adugodi,No Junction,156,80 Feet Road,12.927330219187928,77.63378688426916
+Z10_11,10,11,Banaswadi,No Junction,202,CMR Road,13.021652892561985,77.63839602998169
+Z19_6,19,6,Mahadevapura,No Junction,308,Outer Ring Road,12.99919511318721,77.67987834139457
+Z-11_0,-11,0,Vijayanagara,BTP028 - Vijayanagar Bus Stand Junction,92,BTP028 - Vijayanagar Bus Stand Junction,12.972245777937479,77.54160397001831
+Z3_-9,3,-9,Mico Layout,No Junction,377,BTP136 - Hosur-Tavarkere Road Junction,12.931821775062883,77.6061320099939
+Z27_-3,27,-3,HAL Old Airport,No Junction,540,ITPL Main Road,12.958771110312613,77.71675150709491
+Z-6_2,-6,2,Magadi Road,BTP010 - Rajajinagar Entrance,197,BTP010 - Rajajinagar Entrance,12.981228889687388,77.56464969858102
+Z7_0,7,0,Halasur,No Junction,511,Old Madras Road,12.972245777937479,77.62456859284407
+Z1_-2,1,-2,Ashok Nagar,BTP172 - Nanjappa Circle,1042,BTP172 - Nanjappa Circle,12.963262666187568,77.59691371856881
+Z-9_7,-9,7,Malleshwaram,"BTP026 - 1st Block Junction, Rajajinagar",782,"BTP026 - 1st Block Junction, Rajajinagar",13.003686669062164,77.5508222614434
+Z-21_17,-21,17,Chikkabanavara,No Junction,96,Mumbai Bengaluru Highway,13.048602227811715,77.49551251289289
+Z2_-14,2,-14,Mico Layout,BTP130 - GD Mara Junction,514,BTP130 - GD Mara Junction,12.909363995688107,77.60152286428136
+Z-17_-9,-17,-9,Kengeri,No Junction,91,Sri Sri Sri Tiruchi Mahaswamiji Road,12.931821775062883,77.51394909574306
+Z4_6,4,6,Pulikeshinagar(F.Town),No Junction,667,Robertson Road,12.99919511318721,77.61074115570645
+Z-20_17,-20,17,Peenya,No Junction,156,Mumbai Bengaluru Highway,13.048602227811715,77.50012165860544
+Z-2_2,-2,2,Upparpet,No Junction,135,BTP058 - Subbanna Junction,12.981228889687388,77.58308628143119
+Z16_5,16,5,Mahadevapura,No Junction,716,Old Madras Road,12.994703557312254,77.66605090425695
+Z-18_16,-18,16,Chikkabanavara,No Junction,127,Hesaraghatta Main Road,13.04411067193676,77.50933995003051
+Z17_5,17,5,Mahadevapura,No Junction,701,MBT Road,12.994703557312254,77.6706600499695
+Z18_-11,18,-11,Bellandur,No Junction,93,Outer Ring Road,12.922838663312973,77.67526919568203
+Z-20_4,-20,4,Kamakshipalya,No Junction,195,Magadi Main Road,12.990212001437298,77.50012165860544
+Z1_2,1,2,Shivajinagar,BTP042 - Minsk Square Junction (CTO),1907,BTP042 - Minsk Square Junction (CTO),12.981228889687388,77.59691371856881
+Z-3_8,-3,8,Sadashivanagar,No Junction,138,13th Cross Road,13.008178224937119,77.57847713571864
+Z-4_4,-4,4,Sheshadripuram,No Junction,829,BTP054 - Shivananda Circle,12.990212001437298,77.57386799000611
+Z-3_-4,-3,-4,City Market,BTP119 - Minerva Circle,221,BTP119 - Minerva Circle,12.954279554437658,77.57847713571864
+Z5_2,5,2,Shivajinagar,No Junction,680,Dickenson Road,12.981228889687388,77.61535030141899
+Z4_-9,4,-9,Mico Layout,BTP140 - Madiwala Check Post,212,BTP140 - Madiwala Check Post,12.931821775062883,77.61074115570645
+Z20_-10,20,-10,HAL Old Airport,No Junction,60,Bellandur Doddakannelli Road,12.927330219187928,77.68448748710712
+Z3_-13,3,-13,Mico Layout,No Junction,411,"BTP163 - 16th Main Road, BTM Layout",12.913855551563062,77.6061320099939
+Z19_48,19,48,Chikkajala,No Junction,1374,Unnamed Road,13.187840459935321,77.67987834139457
+Z-9_8,-9,8,Rajajinagar,BTP023 - Mahalaxmi Layout Entrance,710,BTP023 - Mahalaxmi Layout Entrance,13.008178224937119,77.5508222614434
+Z-18_18,-18,18,Chikkabanavara,No Junction,95,Hesaraghatta Main Road,13.05309378368667,77.50933995003051
+Z18_-13,18,-13,Bellandur,No Junction,53,Sarjapura Main Road,12.913855551563062,77.67526919568203
+Z-8_8,-8,8,Malleshwaram,"BTP001 - 10th Cross, Dr. Rajkumar Road",2968,"BTP001 - 10th Cross, Dr. Rajkumar Road",13.008178224937119,77.55543140715594
+Z-17_-3,-17,-3,Jnanabharathi,No Junction,144,Mallathahalli Road,12.958771110312613,77.51394909574306
+Z0_22,0,22,Kodigehalli,No Junction,460,Sahakar Nagar Road,13.07106000718649,77.59230457285628
+Z5_-9,5,-9,Adugodi,BTP140 - Madiwala Check Post,127,BTP140 - Madiwala Check Post,12.931821775062883,77.61535030141899
+Z-8_14,-8,14,Yeshwanthpura,No Junction,128,MS Ramaiah Road,13.035127560186849,77.55543140715594
+Z-4_-6,-4,-6,Basavanagudi,BTP108 - Tagore Park Junction,272,BTP108 - Tagore Park Junction,12.945296442687747,77.57386799000611
+Z-9_4,-9,4,Rajajinagar,"BTP170 - Dr. Bheem Rao Palace, Chord Road",740,"BTP170 - Dr. Bheem Rao Palace, Chord Road",12.990212001437298,77.5508222614434
+Z28_-17,28,-17,Whitefield,No Junction,150,Sarjapura Main Road,12.895889328063241,77.72136065280746
+Z1_28,1,28,Yelahanka,No Junction,197,Jakkur Main Road,13.098009342436221,77.59691371856881
+Z-4_5,-4,5,Sheshadripuram,No Junction,177,Sri Sri Sri Balagangadharanatha Swamy Road,12.994703557312254,77.57386799000611
+Z-10_1,-10,1,Vijayanagara,BTP020 - Hosahalli Metro Station,1554,BTP020 - Hosahalli Metro Station,12.976737333812434,77.54621311573085
+Z1_-5,1,-5,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",203,"BTP123 - 10th Cross, Wilson Garden",12.949787998562703,77.59691371856881
+Z-2_0,-2,0,Halasuru Gate,BTP038 - Mysore Bank Junction,602,BTP038 - Mysore Bank Junction,12.972245777937479,77.58308628143119
+Z-3_17,-3,17,Kodigehalli,No Junction,317,Bhadrappa Flyover,13.048602227811715,77.57847713571864
+Z0_12,0,12,R.T. Nagar,No Junction,128,10th Main Road,13.02614444843694,77.59230457285628
+Z6_1,6,1,Halasur,No Junction,220,Murphy Road,12.976737333812434,77.61995944713152
+Z-9_2,-9,2,Magadi Road,"BTP024 - NPS, Vijayanagar",387,"BTP024 - NPS, Vijayanagar",12.981228889687388,77.5508222614434
+Z22_-8,22,-8,HAL Old Airport,No Junction,665,Outer Ring Road,12.936313330937837,77.6937057785322
+Z14_-23,14,-23,Electronic City,No Junction,183,Hosa Road,12.86893999281351,77.65683261283186
+Z-12_13,-12,13,Yeshwanthpura,No Junction,551,Mumbai Bengaluru Highway,13.030636004311894,77.53699482430576
+Z20_-9,20,-9,HAL Old Airport,No Junction,1013,Outer Ring Road,12.931821775062883,77.68448748710712
+Z-3_2,-3,2,Upparpet,BTP058 - Subbanna Junction,1963,BTP058 - Subbanna Junction,12.981228889687388,77.57847713571864
+Z2_4,2,4,Shivajinagar,No Junction,426,Broadway Road,12.990212001437298,77.60152286428136
+Z1_4,1,4,Shivajinagar,No Junction,433,BTP171 - Indian Express (Balekundri),12.990212001437298,77.59691371856881
+Z-11_8,-11,8,Rajajinagar,No Junction,199,8th Main Road,13.008178224937119,77.54160397001831
+Z1_-21,1,-21,Hulimavu,No Junction,444,Shri Ramalingeshwara Cave Temple Road,12.877923104563422,77.59691371856881
+Z-5_-1,-5,-1,Chamarajpet,BTP085 - Briyand Circle,139,BTP085 - Briyand Circle,12.967754222062522,77.56925884429356
+Z-1_-15,-1,-15,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",82,"BTP221 - 15th Cross, 24th Main, JP Nagar",12.904872439813152,77.58769542714373
+Z-12_0,-12,0,Vijayanagara,BTP028 - Vijayanagar Bus Stand Junction,645,BTP028 - Vijayanagar Bus Stand Junction,12.972245777937479,77.53699482430576
+Z23_5,23,5,Mahadevapura,No Junction,634,Whitefield Road,12.994703557312254,77.69831492424474
+Z7_14,7,14,K.G. Halli,No Junction,321,5th Cross Road,13.035127560186849,77.62456859284407
+Z3_0,3,0,Ashok Nagar,No Junction,691,Brigade Road,12.972245777937479,77.6061320099939
+Z-5_13,-5,13,Sadashivanagar,No Junction,176,Padmasri CK Venkata Ramaiah Road,13.030636004311894,77.56925884429356
+Z-14_-3,-14,-3,Byatarayanapura,No Junction,686,BTP017 - Attiguppe Circle,12.958771110312613,77.52777653288068
+Z11_-14,11,-14,HSR Layout,No Junction,83,19th Main Road,12.909363995688107,77.64300517569424
+Z-11_-5,-11,-5,Byatarayanapura,BTP096 - Gali Anjaneya Temple,112,BTP096 - Gali Anjaneya Temple,12.949787998562703,77.54160397001831
+Z2_0,2,0,Cubbon Park,No Junction,105,"BTP099 - Cash Pharmacy, Residency Road",12.972245777937479,77.60152286428136
+Z-10_8,-10,8,Rajajinagar,BTP023 - Mahalaxmi Layout Entrance,439,BTP023 - Mahalaxmi Layout Entrance,13.008178224937119,77.54621311573085
+Z4_-12,4,-12,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",67,"BTP163 - 16th Main Road, BTM Layout",12.918347107438017,77.61074115570645
+Z0_27,0,27,Yelahanka,No Junction,289,Allalasandra Main Road,13.093517786561266,77.59230457285628
+Z11_-13,11,-13,HSR Layout,No Junction,91,18th Cross Road,12.913855551563062,77.64300517569424
+Z19_49,19,49,Devanahalli Airport,No Junction,185,Unnamed Road,13.192332015810278,77.67987834139457
+Z-4_-14,-4,-14,J.P. Nagar,"BTP117 - 9th Cross, Kanakapura Road",152,"BTP117 - 9th Cross, Kanakapura Road",12.909363995688107,77.57386799000611
+Z11_-3,11,-3,Jeevanbheemanagar,"BTP148 - 17th Main, Doopanahalli Bus Stop",350,"BTP148 - 17th Main, Doopanahalli Bus Stop",12.958771110312613,77.64300517569424
+Z-10_-1,-10,-1,Vijayanagara,No Junction,240,BTP020 - Hosahalli Metro Station,12.967754222062522,77.54621311573085
+Z17_6,17,6,Banaswadi,No Junction,188,Outer Ring Road,12.99919511318721,77.6706600499695
+Z6_-12,6,-12,Madiwala,BTP137 - Madiwala Traffic PS Junction,103,BTP137 - Madiwala Traffic PS Junction,12.918347107438017,77.61995944713152
+Z0_2,0,2,Cubbon Park,BTP047 - Vidhan Soudha Metro Station,223,BTP047 - Vidhan Soudha Metro Station,12.981228889687388,77.59230457285628
+Z0_1,0,1,Cubbon Park,BTP041 - Gopal Gowda Circle,194,BTP041 - Gopal Gowda Circle,12.976737333812434,77.59230457285628
+Z-1_1,-1,1,Cubbon Park,BTP037 - KR Circle,232,BTP037 - KR Circle,12.976737333812434,77.58769542714373
+Z-6_0,-6,0,Magadi Road,BTP074 - Leprosy Hospital Junction,74,BTP074 - Leprosy Hospital Junction,12.972245777937479,77.56464969858102
+Z-7_2,-7,2,Magadi Road,BTP010 - Rajajinagar Entrance,448,BTP010 - Rajajinagar Entrance,12.981228889687388,77.56004055286849
+Z-7_10,-7,10,Yeshwanthpura,No Junction,189,CV Raman Road,13.017161336687028,77.56004055286849
+Z-8_4,-8,4,Rajajinagar,"BTP204 - ESI Hospital, Rajajinagar",376,"BTP204 - ESI Hospital, Rajajinagar",12.990212001437298,77.55543140715594
+Z-1_2,-1,2,Cubbon Park,BTP052 - CID Carlton House Junction,166,BTP052 - CID Carlton House Junction,12.981228889687388,77.58769542714373
+Z8_33,8,33,Chikkajala,No Junction,166,Bellahali Main Road,13.120467121810997,77.6291777385566
+Z-7_-19,-7,-19,Thalagattapura,No Junction,83,Konanakunte Main Road,12.886906216313331,77.56004055286849
+Z3_4,3,4,Pulikeshinagar(F.Town),No Junction,83,Sultanji Gunta Road,12.990212001437298,77.6061320099939
+Z14_0,14,0,Jeevanbheemanagar,No Junction,1096,Pusa Thippasandra Main Road,12.972245777937479,77.65683261283186
+Z11_-1,11,-1,Jeevanbheemanagar,No Junction,599,"BTP148 - 17th Main, Doopanahalli Bus Stop",12.967754222062522,77.64300517569424
+Z9_22,9,22,Hennuru,No Junction,84,Thanisandra Main Road,13.07106000718649,77.63378688426916
+Z-10_-21,-10,-21,Thalagattapura,No Junction,78,Konanakunte Main Road,12.877923104563422,77.54621311573085
+Z0_-15,0,-15,J.P. Nagar,BTP222 - Delmia Circle,69,BTP222 - Delmia Circle,12.904872439813152,77.59230457285628
+Z1_3,1,3,Shivajinagar,BTP171 - Indian Express (Balekundri),58,BTP171 - Indian Express (Balekundri),12.985720445562343,77.59691371856881
+Z6_-11,6,-11,Madiwala,BTP137 - Madiwala Traffic PS Junction,241,BTP137 - Madiwala Traffic PS Junction,12.922838663312973,77.61995944713152
+Z12_-2,12,-2,Jeevanbheemanagar,No Junction,105,"BTP148 - 17th Main, Doopanahalli Bus Stop",12.963262666187568,77.64761432140678
+Z6_3,6,3,Pulikeshinagar(F.Town),No Junction,154,Professor K Venkatachalam Circle,12.985720445562343,77.61995944713152
+Z-1_-9,-1,-9,Jayanagara,BTP219 - Canara Bank Junction,123,BTP219 - Canara Bank Junction,12.931821775062883,77.58769542714373
+Z23_-5,23,-5,HAL Old Airport,No Junction,872,Outer Ring Road,12.949787998562703,77.69831492424474
+Z-4_-13,-4,-13,K.S. Layout,"BTP117 - 9th Cross, Kanakapura Road",103,"BTP117 - 9th Cross, Kanakapura Road",12.913855551563062,77.57386799000611
+Z-3_-14,-3,-14,J.P. Nagar,BTP196 - Sarakki Main Road,52,BTP196 - Sarakki Main Road,12.909363995688107,77.57847713571864
+Z23_-6,23,-6,HAL Old Airport,No Junction,391,Outer Ring Road,12.945296442687747,77.69831492424474
+Z0_-5,0,-5,Wilson Garden,BTP121 - KH Circle,52,BTP121 - KH Circle,12.949787998562703,77.59230457285628
+Z-5_-7,-5,-7,Basavanagudi,BTP108 - Tagore Park Junction,514,BTP108 - Tagore Park Junction,12.940804886812792,77.56925884429356
+Z26_0,26,0,HAL Old Airport,No Junction,629,ITPL Main Road,12.972245777937479,77.71214236138238
+Z27_-1,27,-1,HAL Old Airport,No Junction,300,ITPL Main Road,12.967754222062522,77.71675150709491
+Z-18_-3,-18,-3,Jnanabharathi,No Junction,143,2nd Cross Road,12.958771110312613,77.50933995003051
+Z20_8,20,8,K.R. Pura,No Junction,148,MBT Road,13.008178224937119,77.68448748710712
+Z-11_1,-11,1,Magadi Road,BTP067 - Jai Muni Rao Circle,298,BTP067 - Jai Muni Rao Circle,12.976737333812434,77.54160397001831
+Z17_-12,17,-12,Bellandur,No Junction,124,Sarjapura Main Road,12.918347107438017,77.6706600499695
+Z-3_28,-3,28,Yelahanka,No Junction,100,Yelahanka New Town Main Road,13.098009342436221,77.57847713571864
+Z-4_-3,-4,-3,City Market,BTP104 - Medical College Circle,530,BTP104 - Medical College Circle,12.958771110312613,77.57386799000611
+Z23_9,23,9,K.R. Pura,No Junction,147,MBT Road,13.012669780812073,77.69831492424474
+Z-11_13,-11,13,Yeshwanthpura,No Junction,134,Mumbai Bengaluru Highway,13.030636004311894,77.54160397001831
+Z23_8,23,8,K.R. Pura,No Junction,581,MBT Road,13.008178224937119,77.69831492424474
+Z2_-3,2,-3,Ashok Nagar,BTP172 - Nanjappa Circle,63,BTP172 - Nanjappa Circle,12.958771110312613,77.60152286428136
+Z-2_12,-2,12,R.T. Nagar,No Junction,124,Bellary Road,13.02614444843694,77.58308628143119
+Z5_6,5,6,Pulikeshinagar(F.Town),No Junction,187,Robertson Road,12.99919511318721,77.61535030141899
+Z-12_11,-12,11,Rajajinagar,No Junction,56,Kanteerava Studio Road,13.021652892561985,77.53699482430576
+Z1_-20,1,-20,J.P. Nagar,No Junction,157,Bannerghatta Main Road,12.882414660438377,77.59691371856881
+Z-11_12,-11,12,Yeshwanthpura,No Junction,311,Mumbai Bengaluru Highway,13.02614444843694,77.54160397001831
+Z-24_-13,-24,-13,Kengeri,No Junction,58,Kengeri Main Road,12.913855551563062,77.48168507575527
+Z-11_-1,-11,-1,Vijayanagara,No Junction,51,"BTP022 - Marenahalli Junction, Vijayanagar",12.967754222062522,77.54160397001831
+Z-13_-14,-13,-14,K.S. Layout,No Junction,55,4th Main Road,12.909363995688107,77.53238567859323
+Z27_-4,27,-4,Whitefield,No Junction,136,HAL Airport Road,12.954279554437658,77.71675150709491
+Z7_-11,7,-11,Madiwala,BTP137 - Madiwala Traffic PS Junction,76,BTP137 - Madiwala Traffic PS Junction,12.922838663312973,77.62456859284407
+Z7_-7,7,-7,Adugodi,No Junction,108,20th Main Road,12.940804886812792,77.62456859284407
+Z12_-21,12,-21,Hulimavu,No Junction,200,Hosur Road,12.877923104563422,77.64761432140678
+Z22_-9,22,-9,HAL Old Airport,No Junction,810,New Horizon College Road,12.931821775062883,77.6937057785322
+Z-7_-3,-7,-3,Chamarajpet,BTP091 - Sirsi Circle,75,BTP091 - Sirsi Circle,12.958771110312613,77.56004055286849
+Z11_-20,11,-20,Hulimavu,No Junction,242,1st Main Road,12.882414660438377,77.64300517569424
+Z28_7,28,7,K.R. Pura,No Junction,122,Kodigehalli Main Road,13.003686669062164,77.72136065280746
+Z-6_-7,-6,-7,Basavanagudi,No Junction,251,5th Main Road,12.940804886812792,77.56464969858102
+Z-10_19,-10,19,Jalahalli,No Junction,193,Soniya Gandhi Road,13.057585339561625,77.54621311573085
+Z4_3,4,3,Shivajinagar,No Junction,249,BTP051 - Safina Plaza Junction,12.985720445562343,77.61074115570645
+Z16_-11,16,-11,Bellandur,No Junction,236,Outer Ring Road,12.922838663312973,77.66605090425695
+Z-2_-11,-2,-11,Jayanagara,"BTP190 - 36th Cross, 4th Main, Jayanagar",57,"BTP190 - 36th Cross, 4th Main, Jayanagar",12.922838663312973,77.58308628143119
+Z1_-12,1,-12,Jayanagara,"BTP202 - East End Main Road, Jayanagar",178,"BTP202 - East End Main Road, Jayanagar",12.918347107438017,77.59691371856881
+Z27_-5,27,-5,Whitefield,No Junction,334,Vibgyor High School Road,12.949787998562703,77.71675150709491
+Z-16_3,-16,3,Kamakshipalya,No Junction,189,Dr Rajkumar Puniya Bhoomi Road,12.985720445562343,77.5185582414556
+Z-4_-7,-4,-7,Basavanagudi,BTP109 - Dewan Madhava Rao Junction,207,BTP109 - Dewan Madhava Rao Junction,12.940804886812792,77.57386799000611
+Z3_-1,3,-1,Ashok Nagar,No Junction,196,Markham Road,12.967754222062522,77.6061320099939
+Z27_-2,27,-2,HAL Old Airport,No Junction,1365,ITPL Main Road,12.963262666187568,77.71675150709491
+Z-2_-12,-2,-12,Jayanagara,"BTP191 - 40th Cross, 4th Main, Jayanagar",112,"BTP191 - 40th Cross, 4th Main, Jayanagar",12.918347107438017,77.58308628143119
+Z-4_-4,-4,-4,V.V.Puram (C.Pet),BTP106 - VV Puram College,96,BTP106 - VV Puram College,12.954279554437658,77.57386799000611
+Z2_-17,2,-17,J.P. Nagar,No Junction,63,Bannerghatta Main Road,12.895889328063241,77.60152286428136
+Z-1_28,-1,28,Yelahanka,No Junction,141,3rd A Cross Road,13.098009342436221,77.58769542714373
+Z-16_-8,-16,-8,Byatarayanapura,No Junction,279,Sri Sri Sri Tiruchi Mahaswamiji Road,12.936313330937837,77.5185582414556
+Z13_2,13,2,Banaswadi,No Junction,93,Dr APJ Abdul Kalam Marg,12.981228889687388,77.65222346711933
+Z-10_-4,-10,-4,Byatarayanapura,"BTP094 - Sri Skanda Complex, Mysore Road",112,"BTP094 - Sri Skanda Complex, Mysore Road",12.954279554437658,77.54621311573085
+Z7_6,7,6,Pulikeshinagar(F.Town),No Junction,157,Banaswadi Main Road,12.99919511318721,77.62456859284407
+Z-3_20,-3,20,Kodigehalli,No Junction,52,Tindlu Road,13.06207689543658,77.57847713571864
+Z-3_-8,-3,-8,Basavanagudi,BTP216 - Yediyur Junction,162,BTP216 - Yediyur Junction,12.936313330937837,77.57847713571864
+Z-9_-2,-9,-2,Magadi Road,No Junction,187,"BTP093 - Toll Gate, Mysore Road",12.963262666187568,77.5508222614434
+Z-9_1,-9,1,Magadi Road,BTP071 - Prasanna Junction,188,BTP071 - Prasanna Junction,12.976737333812434,77.5508222614434
+Z10_2,10,2,Jeevanbheemanagar,No Junction,51,100 Feet Road,12.981228889687388,77.63839602998169
+Z-9_10,-9,10,Rajajinagar,No Junction,83,1st Main Road,13.017161336687028,77.5508222614434
+Z-3_-12,-3,-12,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",180,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",12.918347107438017,77.57847713571864
+Z-6_-19,-6,-19,Thalagattapura,No Junction,195,Konanakunte Main Road,12.886906216313331,77.56464969858102
+Z-14_17,-14,17,Jalahalli,No Junction,174,Chikka Banavara RS Road,13.048602227811715,77.52777653288068
+Z-1_12,-1,12,R.T. Nagar,No Junction,226,11th Cross Road,13.02614444843694,77.58769542714373
+Z-7_14,-7,14,Yeshwanthpura,No Junction,109,MS Ramaiah Road,13.035127560186849,77.56004055286849
+Z-9_17,-9,17,Jalahalli,No Junction,72,Rajatha Bhavana Road,13.048602227811715,77.5508222614434
+Z14_-3,14,-3,Jeevanbheemanagar,No Junction,85,Old Airport Road,12.958771110312613,77.65683261283186
+Z-2_-7,-2,-7,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",489,"BTP186 - 9th Cross, 4th Main, Jayanagar",12.940804886812792,77.58308628143119
+Z0_8,0,8,R.T. Nagar,No Junction,80,Jayamahal Main Road,13.008178224937119,77.59230457285628
+Z-3_-7,-3,-7,Basavanagudi,"BTP186 - 9th Cross, 4th Main, Jayanagar",124,"BTP186 - 9th Cross, 4th Main, Jayanagar",12.940804886812792,77.57847713571864
+Z4_-8,4,-8,Adugodi,BTP135 - UCO Bank Junction,226,BTP135 - UCO Bank Junction,12.936313330937837,77.61074115570645
+Z0_21,0,21,Kodigehalli,No Junction,127,RK Road Number 7,13.066568451311534,77.59230457285628
+Z3_-5,3,-5,Ashok Nagar,BTP132 - Anepalya Junction,134,BTP132 - Anepalya Junction,12.949787998562703,77.6061320099939
+Z7_1,7,1,Halasur,No Junction,104,Old Madras Road,12.976737333812434,77.62456859284407
+Z23_-8,23,-8,HAL Old Airport,No Junction,315,Panathur Main Road,12.936313330937837,77.69831492424474
+Z10_-3,10,-3,Halasur,BTP146 - Domlur Water Tank,125,BTP146 - Domlur Water Tank,12.958771110312613,77.63839602998169
+Z10_1,10,1,Jeevanbheemanagar,No Junction,350,Chinmaya Mission Hospital Road,12.976737333812434,77.63839602998169
+Z36_7,36,7,Mahadevapura,No Junction,97,Whitefield Main Road,13.003686669062164,77.75823381850779
+Z9_33,9,33,Yelahanka,No Junction,54,Bellahali Main Road,13.120467121810997,77.63378688426916
+Z-9_-14,-9,-14,K.S. Layout,No Junction,122,Subramanyapura Main Road,12.909363995688107,77.5508222614434
+Z-15_-7,-15,-7,Byatarayanapura,No Junction,158,BTP098 - Nayandahalli Junction,12.940804886812792,77.52316738716814
+Z-11_-15,-11,-15,K.S. Layout,No Junction,61,Dr Vishnuvardhan Main Road,12.904872439813152,77.54160397001831
+Z9_7,9,7,Banaswadi,No Junction,59,Banaswadi Main Road,13.003686669062164,77.63378688426916
+Z0_17,0,17,Kodigehalli,No Junction,350,Bellary Road,13.048602227811715,77.59230457285628
+Z14_-1,14,-1,Jeevanbheemanagar,No Junction,84,1st Cross Road,12.967754222062522,77.65683261283186
+Z21_47,21,47,Chikkajala,No Junction,118,Unnamed Road,13.183348904060367,77.68909663281966
+Z20_47,20,47,Chikkajala,No Junction,217,Unnamed Road,13.183348904060367,77.68448748710712
+Z0_-6,0,-6,Wilson Garden,BTP122 - Siddapura Junction,106,BTP122 - Siddapura Junction,12.945296442687747,77.59230457285628
+Z-9_18,-9,18,Jalahalli,No Junction,106,Rajatha Bhavana Road,13.05309378368667,77.5508222614434
+Z13_-23,13,-23,Electronic City,No Junction,283,Hosa Road,12.86893999281351,77.65222346711933
+Z-7_3,-7,3,Rajajinagar,BTP010 - Rajajinagar Entrance,236,BTP010 - Rajajinagar Entrance,12.985720445562343,77.56004055286849
+Z-13_1,-13,1,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,75,BTP214 - 5th Main Chamrajpet  Junction,12.976737333812434,77.53238567859323
+Z2_28,2,28,Yelahanka,No Junction,452,Jakkur Main Road,13.098009342436221,77.60152286428136
+Z-1_15,-1,15,Hebbala,No Junction,191,Hebbal Flyover,13.039619116061804,77.58769542714373
+Z10_-17,10,-17,HSR Layout,No Junction,69,Hosur Road,12.895889328063241,77.63839602998169
+Z-4_14,-4,14,Kodigehalli,No Junction,140,Dr Rajgopal Road,13.035127560186849,77.57386799000611
+Z19_-13,19,-13,Bellandur,No Junction,241,Sarjapura Main Road,12.913855551563062,77.67987834139457
+Z18_-29,18,-29,Electronic City,No Junction,260,Hosur Road,12.84199065756378,77.67526919568203
+Z0_7,0,7,R.T. Nagar,No Junction,65,Jayamahal Main Road,13.003686669062164,77.59230457285628
+Z-8_6,-8,6,Malleshwaram,BTP008 - Navarang Theatre,308,BTP008 - Navarang Theatre,12.99919511318721,77.55543140715594
+Z-16_15,-16,15,Peenya,No Junction,260,Jalahalli Cross Road,13.039619116061804,77.5185582414556
+Z34_-1,34,-1,Whitefield,No Junction,86,Whitefield Main Road,12.967754222062522,77.7490155270827
+Z-14_-6,-14,-6,Byatarayanapura,BTP098 - Nayandahalli Junction,89,BTP098 - Nayandahalli Junction,12.945296442687747,77.52777653288068
+Z1_-17,1,-17,J.P. Nagar,No Junction,90,Bannerghatta Main Road,12.895889328063241,77.59691371856881
+Z-3_4,-3,4,Sheshadripuram,BTP054 - Shivananda Circle,133,BTP054 - Shivananda Circle,12.990212001437298,77.57847713571864
+Z11_-19,11,-19,Hulimavu,No Junction,279,Chikka Begur Main Road,12.886906216313331,77.64300517569424
+Z11_-2,11,-2,Jeevanbheemanagar,"BTP148 - 17th Main, Doopanahalli Bus Stop",207,"BTP148 - 17th Main, Doopanahalli Bus Stop",12.963262666187568,77.64300517569424
+Z6_-7,6,-7,Adugodi,No Junction,94,20th Main Road,12.940804886812792,77.61995944713152
+Z3_1,3,1,Cubbon Park,No Junction,254,BTP051 - Safina Plaza Junction,12.976737333812434,77.6061320099939
+Z10_-19,10,-19,Hulimavu,No Junction,66,Hosur Road,12.886906216313331,77.63839602998169
+Z7_-14,7,-14,Madiwala,No Junction,68,Hosur Road,12.909363995688107,77.62456859284407
+Z0_-8,0,-8,Wilson Garden,No Junction,86,8th Main Road,12.936313330937837,77.59230457285628
+Z-14_-2,-14,-2,Byatarayanapura,No Junction,101,4th Main Road,12.963262666187568,77.52777653288068
+Z-2_3,-2,3,High ground,BTP053 - Three Let Junction,63,BTP053 - Three Let Junction,12.985720445562343,77.58308628143119
+Z23_-3,23,-3,HAL Old Airport,No Junction,52,HAL Airport Road,12.958771110312613,77.69831492424474
+Z-11_-2,-11,-2,Vijayanagara,No Junction,392,"BTP016 - 5th Main Road, RPC Layout",12.963262666187568,77.54160397001831
+Z17_-11,17,-11,Bellandur,No Junction,94,Outer Ring Road,12.922838663312973,77.6706600499695
+Z2_-15,2,-15,Mico Layout,BTP130 - GD Mara Junction,59,BTP130 - GD Mara Junction,12.904872439813152,77.60152286428136
+Z9_-16,9,-16,HSR Layout,No Junction,51,Hosur Road,12.900380883938197,77.63378688426916
+Z6_6,6,6,Pulikeshinagar(F.Town),No Junction,92,Lazar Road,12.99919511318721,77.61995944713152
+Z-8_1,-8,1,Magadi Road,BTP071 - Prasanna Junction,145,BTP071 - Prasanna Junction,12.976737333812434,77.55543140715594
+Z-18_-2,-18,-2,Jnanabharathi,No Junction,105,Mallathahalli Road,12.963262666187568,77.50933995003051
+Z10_-2,10,-2,Halasur,"BTP145 - Sri Hatti Maramma Circle, Domluru",93,"BTP145 - Sri Hatti Maramma Circle, Domluru",12.963262666187568,77.63839602998169
+Z5_-10,5,-10,Madiwala,BTP138 - Sarjapur Road Check Post,55,BTP138 - Sarjapur Road Check Post,12.927330219187928,77.61535030141899
+Z14_11,14,11,Hennuru,No Junction,55,Horamavu Main Road,13.021652892561985,77.65683261283186
+Z8_-8,8,-8,Adugodi,No Junction,119,Srinivagilu Main Road,12.936313330937837,77.6291777385566
+Z-14_8,-14,8,Rajajinagar,No Junction,352,Laggere Service Road,13.008178224937119,77.52777653288068
+Z35_2,35,2,Whitefield,No Junction,63,Whitefield Main Road,12.981228889687388,77.75362467279525
+Z-1_3,-1,3,High ground,BTP035 - Basaweshwara Circle (LH) Junction,58,BTP035 - Basaweshwara Circle (LH) Junction,12.985720445562343,77.58769542714373
+Z8_-14,8,-14,HSR Layout,No Junction,102,Hosur Road,12.909363995688107,77.6291777385566
+Z3_5,3,5,Pulikeshinagar(F.Town),No Junction,86,St Johns Church Road,12.994703557312254,77.6061320099939
+Z-5_-2,-5,-2,Chamarajpet,BTP085 - Briyand Circle,55,BTP085 - Briyand Circle,12.963262666187568,77.56925884429356
+Z9_-14,9,-14,HSR Layout,No Junction,55,Hosapalya Main Road,12.909363995688107,77.63378688426916
+Z12_0,12,0,Jeevanbheemanagar,No Junction,611,Sir CV Raman Hospital Road,12.972245777937479,77.64761432140678
+Z-5_4,-5,4,Malleshwaram,No Junction,108,Sri Venkataranga Iyengar Road,12.990212001437298,77.56925884429356
+Z14_-17,14,-17,HSR Layout,No Junction,69,Haralur Road,12.895889328063241,77.65683261283186
+Z15_7,15,7,Banaswadi,No Junction,65,2nd Main Road,13.003686669062164,77.66144175854441
+Z11_2,11,2,Jeevanbheemanagar,No Junction,79,Sri Krishana Temple Road,12.981228889687388,77.64300517569424
+Z24_-8,24,-8,HAL Old Airport,No Junction,167,Panathur Main Road,12.936313330937837,77.70292406995729
+Z20_-14,20,-14,Bellandur,No Junction,75,Sarjapura Main Road,12.909363995688107,77.68448748710712
+Z31_-2,31,-2,Whitefield,No Junction,92,Nallurahalli Road,12.963262666187568,77.73518808994508
+Z-18_4,-18,4,Kamakshipalya,No Junction,81,Magadi Main Road,12.990212001437298,77.50933995003051
+Z24_-2,24,-2,HAL Old Airport,No Junction,83,Outer Ring Road,12.963262666187568,77.70292406995729
+Z-1_-16,-1,-16,J.P. Nagar,No Junction,55,"BTP221 - 15th Cross, 24th Main, JP Nagar",12.900380883938197,77.58769542714373
+Z-1_-6,-1,-6,Wilson Garden,No Junction,149,Siddhapura Road,12.945296442687747,77.58769542714373
+Z-3_-5,-3,-5,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,297,BTP184 - Lalbagh West Gate,12.949787998562703,77.57847713571864
+Z8_-9,8,-9,Adugodi,No Junction,193,Srinivagilu Main Road,12.931821775062883,77.6291777385566
+Z7_9,7,9,Banaswadi,No Junction,59,Sri Vinayaka Temple Main Road,13.012669780812073,77.62456859284407
+Z9_-9,9,-9,Adugodi,No Junction,407,Srinivagilu Main Road,12.931821775062883,77.63378688426916
+Z13_-11,13,-11,HSR Layout,No Junction,93,27th Main Road,12.922838663312973,77.65222346711933
+Z4_33,4,33,Yelahanka,No Junction,97,Bellary Road,13.120467121810997,77.61074115570645
+Z13_-29,13,-29,Electronic City,No Junction,74,Neeladri Road,12.84199065756378,77.65222346711933
+Z-17_15,-17,15,Peenya,No Junction,59,KIADB Road,13.039619116061804,77.51394909574306
+Z8_2,8,2,Halasur,No Junction,147,Old Madras Road,12.981228889687388,77.6291777385566
+Z5_33,5,33,Yelahanka,No Junction,57,Bagaluru Main Road,13.120467121810997,77.61535030141899
+Z4_4,4,4,Pulikeshinagar(F.Town),No Junction,138,Seppings Road,12.990212001437298,77.61074115570645
+Z5_1,5,1,Halasur,No Junction,61,Ulsoor Road,12.976737333812434,77.61535030141899
+Z-3_-11,-3,-11,Jayanagara,"BTP190 - 36th Cross, 4th Main, Jayanagar",101,"BTP190 - 36th Cross, 4th Main, Jayanagar",12.922838663312973,77.57847713571864
+Z12_-1,12,-1,Jeevanbheemanagar,No Junction,162,Jeevan Bhima Nagar Main Road,12.967754222062522,77.64761432140678
+Z19_-30,19,-30,Electronic City,No Junction,67,Hosur Road,12.837499101688826,77.67987834139457
+Z22_-10,22,-10,Bellandur,No Junction,188,Doddakannelli Road,12.927330219187928,77.6937057785322
+Z-8_-3,-8,-3,Chamarajpet,BTP092 - Bangalore Builders Junction,108,BTP092 - Bangalore Builders Junction,12.958771110312613,77.55543140715594
+Z9_-15,9,-15,HSR Layout,No Junction,130,Hosapalya Main Road,12.904872439813152,77.63378688426916
+Z0_-1,0,-1,Halasuru Gate,BTP203 - RRMR Junction,130,BTP203 - RRMR Junction,12.967754222062522,77.59230457285628
+Z2_1,2,1,Cubbon Park,No Junction,122,BTP211 - Central Street Junction,12.976737333812434,77.60152286428136
+Z4_1,4,1,Shivajinagar,BTP051 - Safina Plaza Junction,54,BTP051 - Safina Plaza Junction,12.976737333812434,77.61074115570645
+Z0_0,0,0,Cubbon Park,BTP063 - Siddalingaiah Circle,141,BTP063 - Siddalingaiah Circle,12.972245777937479,77.59230457285628
+Z25_2,25,2,Mahadevapura,No Junction,54,ITPL Main Road,12.981228889687388,77.70753321566983
+Z25_3,25,3,Mahadevapura,No Junction,87,Hoodi Main Road,12.985720445562343,77.70753321566983
+Z6_38,6,38,Chikkajala,No Junction,93,Hosahalli Main Road,13.142924901185772,77.61995944713152
+Z-1_-14,-1,-14,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",57,"BTP197 - 9th Cross, 24th Main, JP Nagar",12.909363995688107,77.58769542714373
+Z-12_-5,-12,-5,Byatarayanapura,No Junction,67,BTP096 - Gali Anjaneya Temple,12.949787998562703,77.53699482430576
+Z-3_-10,-3,-10,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",555,"BTP189 - New Diagonal Road, Jayanagar",12.927330219187928,77.57847713571864
+Z-7_13,-7,13,Yeshwanthpura,No Junction,65,MS Ramaiah Road,13.030636004311894,77.56004055286849
+Z23_1,23,1,Mahadevapura,No Junction,65,Outer Ring Road,12.976737333812434,77.69831492424474
+Z9_-2,9,-2,Halasur,"BTP145 - Sri Hatti Maramma Circle, Domluru",62,"BTP145 - Sri Hatti Maramma Circle, Domluru",12.963262666187568,77.63378688426916
+Z-5_-3,-5,-3,V.V.Puram (C.Pet),BTP217 - Baleyele Junction,171,BTP217 - Baleyele Junction,12.958771110312613,77.56925884429356
+Z16_-3,16,-3,HAL Old Airport,No Junction,185,Dr BR Ambedkar Road,12.958771110312613,77.66605090425695
+Z13_-1,13,-1,Jeevanbheemanagar,No Junction,60,Jeevan Bhima Nagar Main Road,12.967754222062522,77.65222346711933
+Z34_-7,34,-7,Whitefield,No Junction,73,Muthsandra Main Road,12.940804886812792,77.7490155270827
+Z0_10,0,10,R.T. Nagar,No Junction,88,RT Nagar Main Road,13.017161336687028,77.59230457285628
+Z-15_-5,-15,-5,Byatarayanapura,No Junction,102,BTP098 - Nayandahalli Junction,12.949787998562703,77.52316738716814
+Z3_-8,3,-8,Mico Layout,BTP136 - Hosur-Tavarkere Road Junction,161,BTP136 - Hosur-Tavarkere Road Junction,12.936313330937837,77.6061320099939
+Z24_-1,24,-1,HAL Old Airport,No Junction,87,Outer Ring Road,12.967754222062522,77.70292406995729
+Z6_-8,6,-8,Adugodi,No Junction,74,60 Feet Road,12.936313330937837,77.61995944713152
+Z-11_-22,-11,-22,Thalagattapura,No Junction,57,Konanakunte Main Road,12.873431548688467,77.54160397001831
+Z-13_-8,-13,-8,Banashankari,No Junction,56,60 Feet Road,12.936313330937837,77.53238567859323
+Z0_11,0,11,R.T. Nagar,No Junction,240,RT Nagar Main Road,13.021652892561985,77.59230457285628
+Z-3_-9,-3,-9,Jayanagara,"BTP188 - 27th Cross, 4th Main, Jayanagar",92,"BTP188 - 27th Cross, 4th Main, Jayanagar",12.931821775062883,77.57847713571864
+Z1_6,1,6,R.T. Nagar,No Junction,96,1st Main Road,12.99919511318721,77.59691371856881
+Z-7_6,-7,6,Rajajinagar,No Junction,87,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",12.99919511318721,77.56004055286849
+Z37_18,37,18,K.R. Pura,No Junction,93,MBT Road,13.05309378368667,77.76284296422034
+Z-4_-5,-4,-5,V.V.Puram (C.Pet),BTP107 - National College Junction,99,BTP107 - National College Junction,12.949787998562703,77.57386799000611
+Z-7_5,-7,5,Rajajinagar,BTP009 - Prakash Nagar Junction,128,BTP009 - Prakash Nagar Junction,12.994703557312254,77.56004055286849
+Z9_-17,9,-17,HSR Layout,No Junction,102,Hosur Road,12.895889328063241,77.63378688426916
+Z17_-3,17,-3,HAL Old Airport,No Junction,95,Old Airport Road,12.958771110312613,77.6706600499695
+Z30_-4,30,-4,Whitefield,No Junction,66,HAL Airport Road,12.954279554437658,77.73057894423255
+Z16_-26,16,-26,Electronic City,No Junction,76,Hosur Road,12.855465325188646,77.66605090425695
+Z22_6,22,6,Mahadevapura,No Junction,73,4th Cross Road,12.99919511318721,77.6937057785322
+Z33_3,33,3,Whitefield,No Junction,105,Mims Gulmohar Road,12.985720445562343,77.74440638137017
+Z1_7,1,7,R.T. Nagar,No Junction,54,2nd Main Road,13.003686669062164,77.59691371856881
+Z7_13,7,13,K.G. Halli,No Junction,50,Kempegowda Road,13.030636004311894,77.62456859284407
+Z13_4,13,4,Banaswadi,No Junction,129,Railway Line Road,12.990212001437298,77.65222346711933
+Z-22_9,-22,9,Kamakshipalya,No Junction,54,Thigalarapalya Main Road,13.012669780812073,77.49090336718035
